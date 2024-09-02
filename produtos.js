@@ -1,0 +1,8 @@
+const menuOptions = [
+    { name: 'X-Salada', price: 30, vegan: false, src: 'https://img.freepik.com/fotos-gratis/mao-em-luvas-de-hamburguer-segurando-o-hamburguer-de-carne-no-fundo-preto_140725-303.jpg?w=740&t=st=1718911161~exp=1718911761~hmac=ce5032ebe10fe49775eb0eb83ad24810079caba6f99e808b0be93f81f2b2c370' },
+    { name: 'X-Bacon', price: 34, vegan: false, src: 'https://img.freepik.com/fotos-premium/hamburguer-duplo-com-cheddar-e-bacon-em-superficie-cinzenta_875825-160500.jpg?w=900' },
+    { name: 'X-Bacon Egg', price: 39, vegan: false, src: 'https://img.freepik.com/fotos-gratis/hamburguer-saboroso-isolado-no-fundo-branco-fastfood-de-hamburguer-fresco-com-carne-e-queijo_90220-1063.jpg?w=740&t=st=1718911350~exp=1718911950~hmac=6fd7e993dca0093c2ee9262de836e3b7f4fec15cd6cad313f96a22caccbc89d2' },
+    { name: 'Monstruoso', price: 50, vegan: false, src: 'https://img.freepik.com/fotos-gratis/hamburguer-grande-recheado-com-carne-de-frango-e-salada-em-uma-placa-de-madeira_114579-2572.jpg?t=st=1718911490~exp=1718915090~hmac=25ad4503a76425eeadb498ac13ee35b94d46d583c146321e1bfa322066823c66&w=900' },
+    { name: 'Big', price: 55, vegan: true, src: 'https://img.freepik.com/fotos-gratis/hamburguer-de-queijo-perfeito-com-legumes-na-mesa-de-madeira-e-fundo-preto-ai-generative_123827-23432.jpg?t=st=1718911236~exp=1718914836~hmac=52dea7bfd062c1329c34b0eb19dbe49b8f6cf177dc4b4a1eb6625920fd1ced6a&w=900' },
+    { name: 'X-Vegan', price: 45, vegan: true, src: 'https://img.freepik.com/fotos-gratis/big-mac-hamburguer-e-batatas-fica-em-uma-placa-de-madeira-escura_114579-2361.jpg?w=740&t=st=1718911421~exp=1718912021~hmac=3a599dc1f55aedb2c24e708e246d92b85175b6254e17f1f32fe3332add9b2c1e' }
+]
